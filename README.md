@@ -1,1 +1,1 @@
-# EG-Gravity-Trails
+# EG-GravityTrails
